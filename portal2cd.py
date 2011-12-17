@@ -13,7 +13,7 @@ CONSUMER_SECRET = 'YOUR_CONSUMER_SECRET'
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 
-# Access tokens for ypur twitter account
+# Access tokens for your twitter account
 ACCESS_KEY = 'YOUR_ACCESS_KEY'
 ACCESS_SECRET = 'YOUR_ACCESS_SECRET'
 
